@@ -1,6 +1,7 @@
 """
 ID- 20CS065
 NAME - KISHAN PRAJAPATI
+GIT lnk - https://github.com/KishanPrajapati15/20CS065_KishanPrajapati/blob/main/20CS065_Prac2PIP.py
 """
 print("\n ID- 20CS065 \n NAME- KISHAN PRAJAPATI")
 
