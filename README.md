@@ -1,2 +1,2 @@
-# 20CS065_KishanPrajapati
-Phython Programs
+# Python programs
+Phython assignemnt programs solution
